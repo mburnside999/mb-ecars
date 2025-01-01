@@ -7,7 +7,7 @@
     "author": "Salesforce Developer Relations",
     "license": "CC0-1.0",
     "dependencies": {
-        "debug": "^4.3.4",
+        "debug": "^4.4.0",
         "dotenv-cli": "^6.0.0",
         "pg": "^8.8.0",
         "sequelize": "6.27.0",
